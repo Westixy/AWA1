@@ -8,6 +8,8 @@
 - Run app `npm start`
 - Click on the button `Grow`
 
+Only tested on Google chrome
+
 ## file that are used
 
 - `src/App.jsx` Entry point
